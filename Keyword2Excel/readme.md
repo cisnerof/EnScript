@@ -6,8 +6,8 @@ This script will do keyword search and output to Excel file.
   * The reason being that we can speed up the process, instead of parsing every single files.
 
 2. Run Enscript
-  * Need to provide output Excel file
-  * 
-<img src="https://github.com/cisnerof/dfir/blob/master/image/enscript_registry2regripper2.png" width="400" height="200">
+  * Need to provide outputpath for Excel file
+
+<img src="https://github.com/cisnerof/dfir/blob/master/image/en_keyword2excel.png" width="400" height="200">
 
 ----------
