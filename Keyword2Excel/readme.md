@@ -8,6 +8,6 @@ This script will do keyword search and output to Excel file.
 2. Run Enscript
   * Need to provide outputpath for Excel file
 
-<img src="https://github.com/cisnerof/dfir/blob/master/image/en_keyword2excel.png" width="400" height="200">
+<img src="https://github.com/cisnerof/dfir/blob/master/image/en_keyword2excel.PNG" width="400" height="200">
 
 ----------
